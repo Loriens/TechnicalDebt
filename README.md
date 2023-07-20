@@ -11,3 +11,5 @@
 * [Paying Technical Debt at Scale - Migrations](https://www.youtube.com/watch?v=OFjvJmS_uDo)
 * [Как \[не\] продать технический долг](https://www.youtube.com/watch?v=Snk3lstBzXU)
 * [Как отдавать технический долг](https://www.youtube.com/watch?v=Snk3lstBzXU)
+* [Дока: Что такое технический долг](https://doka.guide/js/technical-debt/)
+* [Как мы обеспечиваем качество, не жертвуя TTM](https://www.youtube.com/watch?v=1NjlOge4gvM)
